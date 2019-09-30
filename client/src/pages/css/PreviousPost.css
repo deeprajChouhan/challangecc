@@ -1,0 +1,20 @@
+
+#notification-div{
+	
+	background-color:#f1f1f1;
+	padding-left:35px;
+	padding-right:35px;
+	left:5%;
+	padding-bottom:50px;
+	width: 90%;
+	position: absolute;
+    float:left;
+    
+    overflow: auto;
+	margin-left: -260px;
+}
+.heading {
+    padding-bottom: 4%;
+    float: left;
+    padding-left:0;
+}

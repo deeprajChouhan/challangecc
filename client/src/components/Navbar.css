@@ -1,0 +1,38 @@
+.main-nav {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    
+    overflow: hidden;
+    background-color: #ed2553;
+    position: -webkit-sticky; 
+    position: sticky;
+  }
+  .list-nav {
+    float: right;
+  }
+  
+  .list-nav a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    
+  }
+  
+  .list-nav a:hover {
+    background-color: #AEE5D8;
+  }
+  .brand{
+      float: left;
+      text-align: center;
+        padding-top:10px;
+        text-decoration: none;
+      padding-left:3%; 
+      font-size: 25px;
+      color:white;
+      font-family: 'Josefin Sans', sans-serif;
+      
+    }
+    
